@@ -1,26 +1,24 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "James Yamada",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "picture": "https://github.com/jameshakuy.png",
+    "email": "jameshy@hawaii.edu",
+    "phone": "808-304-8860",
+    "website": "https://jameshakuy.github.io",
+    "summary": "Hey! I'm currently studying Computer Science B.S. at the University of Hawaii at Manoa. My interests includes Machine Learning, Block Chain, Cryptocurrency, Mathematics, and Quantitative Finance/Development. I really enjoy connecting and talking to people so feel free to connect with me on my linkedin!",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "jameshakuy", "url": "http://github.com/jameshakuy" },
+      { "network": "linkedin", "username": "James (Haku) Yamada", "url": "https://www.linkedin.com/in/james-yamada-9a29ab261/" },
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Quantitative Finance" },
+    { "name": "Machine/Deep Learning" },
+    { "name": "Mathematics" },
+    { "name": "Investments" },
+    { "name": "Blockchain" }
   ],
   "skills": [
     {
