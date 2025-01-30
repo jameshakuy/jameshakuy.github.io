@@ -1,25 +1,25 @@
 ---
 layout: essay
 type: essay
-title: "The difficult things will always be difficult"
+title: "Glorious Evolution"
 # All dates must be YYYY-MM-DD format!
-date: 2016-02-06
+date: 2025-01-28
 published: true
 labels:
-  - Engineering
+  - Machine Learning and AI
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
 
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+*When you're going to change the world, don't ask for permission.*
 
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
+I quoted this when I completed my most difficult project yet, the calculator app... This obviously did not happen, nor was it quoted by someone who exists. The quote comes from a fictional character named Viktor from a show that I really enjoyed named Arcane. In the lore, he is a scientist, a brilliant one who invented a technology that travels through the fourth dimension, time, and space. Now why did I bother sharing this? Part of me aspires to be a scientist, a researcher, and a historical benchmark, and his work as a scientist developed a whole new perspective for me.
 
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
+Unfortunately, I am quite convinced that I'll not be able to solve the fourth dimension as he did but as a Computer Scientist and an aspiring Machine Learning Researcher/practitioner, I believe that I could change the world in the field of my interest.
 
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
+Machine Learning is still relatively new. In fact, technology itself is relatively new concerning how long the Earth has existed. We have seen exponential growth in technology throughout the past century and with this rate, we can expect future projections of exponential growth as well. This suggests we have only touched the surface of what we are capable of developing and the fact that I could also contribute to the evolution of this planet excites me more than anything.
 
-Here's what I think: the difficult things will always be difficult.
+So what do I plan to accomplish in my mortal lifespan of a mere 100 years?
 
 ## In the context of programming
 
@@ -31,24 +31,12 @@ Some things are just difficult - building applications that humans use is hard, 
 
 ## In the context of engineering
 
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
-
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
-
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
+aaa
 
 ## In the context of relationships
 
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
-
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
-
-Relationships have always been difficult, and by nature will continue to be so.
+bbb
 
 ## Okay!
 
-So back to the original premise; why is being one of the club officers so difficult?
-
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
-
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
+ccc
