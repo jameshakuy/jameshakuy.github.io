@@ -9,7 +9,7 @@ labels:
   - Machine Learning
   - Feedback
   - Python
-summary: "My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition."
+summary: "During my internship, I worked on a sentiment analysis project to fine-tune a pretrained model for classifying customer reviews, learning how to preprocess text, apply techniques like TF-IDF or word embeddings, and deploy the model using cloud services like AWS for real-time feedback analysis."
 ---
 
 <div class="text-center p-4">
