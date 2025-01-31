@@ -21,22 +21,12 @@ Machine Learning is still relatively new. In fact, technology itself is relative
 
 So what do I plan to accomplish in my mortal lifespan of a mere 100 years?
 
-## In the context of programming
+## AI in theory
 
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
+Artificial Intelligence is about to change everything—how we live, work, and understand the world—and I want to be part of pushing it forward. One thing that really excites me is the idea of using AI to accelerate scientific discovery. Imagine machines that can come up with and test ideas in physics, chemistry, or medicine on their own. Think about an AI that could simulate millions of chemical compounds in seconds, cutting down the years it takes to develop new drugs that save lives. Looking ahead, in 30 or 60 years, AI might not just help us solve problems—it could invent entirely new areas of science, things we can’t even wrap our heads around right now. I want to be in the thick of that, helping shape AI into a tool that unlocks knowledge we never thought possible.
 
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
+## AI in Practice
 
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
+Beyond pure research, I believe AI will improve human productivity in levels not comparable to today. Right now, AI is excellent at narrow tasks—writing code, generating images, or predicting trends—but the future will see more general and adaptive intelligence. One of my goals is to develop AI systems that can learn, reason, and adapt in real-world scenarios, making them as versatile as human experts. Picture a world where AI can serve as a collaborative partner, helping engineers design complex systems, automating large-scale infrastructure projects, or even optimizing entire economies. The challenge is not just creating powerful AI but ensuring it aligns with human values and goals. If I can contribute even a fraction to the responsible and groundbreaking advancement of AI, I will have done my part in changing the world.
 
-## In the context of engineering
 
-aaa
-
-## In the context of relationships
-
-bbb
-
-## Okay!
-
-ccc
