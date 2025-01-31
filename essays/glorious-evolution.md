@@ -23,7 +23,7 @@ So what do I plan to accomplish in my mortal lifespan of a mere 100 years?
 
 ## AI in theory
 
-Artificial Intelligence is about to change everything how we live, work, and understand the world and I want to be part of pushing it forward. One thing that really excites me is the idea of using AI to accelerate scientific discovery. Imagine machines that can come up with and test ideas in physics, chemistry, or medicine on their own. Think about an AI that could simulate millions of chemical compounds in seconds, cutting down the years it takes to develop new drugs that save lives. Looking ahead, in 30 or 60 years, AI might not just help us solve problems—it could invent entirely new areas of science, things we can’t even wrap our heads around right now. I want to be in the thick of that, helping shape AI into a tool that unlocks knowledge we never thought possible.
+Artificial Intelligence is about to change everything how we live, work, and understand the world and I want to be part of pushing it forward. One thing that really excites me is the idea of using AI to accelerate scientific discovery. Imagine machines that can come up with and test ideas in physics, chemistry, or medicine on their own. Think about an AI that could simulate millions of chemical compounds in seconds, cutting down the years it takes to develop new drugs that save lives. Looking ahead, in 30 or 60 years, AI might not just help us solve problems, it could invent entirely new areas of science, things we can’t even wrap our heads around right now. I want to be in the thick of that, helping shape AI into a tool that unlocks knowledge we never thought possible.
 
 ## AI in Practice
 
