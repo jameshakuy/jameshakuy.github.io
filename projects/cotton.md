@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/LSTM.png
 title: "Cotton"
 date: 2014
 published: true
@@ -11,9 +11,11 @@ labels:
 summary: "A text adventure game that I developed for ICS 313."
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<img class="img-fluid" src="../img/FE.png">
 
-I recently worked on a project focused on predicting stock price movements using machine learning. The goal was to build a model that could analyze historical stock data and make short-term predictions about whether a stock’s price would go up or down. Stock price prediction is a classic problem in finance, but it’s tricky because markets are influenced by so many factors—historical trends, news, and even investor sentiment. To tackle this, I started by collecting and cleaning historical stock data, including prices, trading volumes, and technical indicators like moving averages and RSI (Relative Strength Index). Then, I used feature engineering to create meaningful inputs for the model, such as calculating percentage changes in price or rolling averages over specific time windows. For the model itself, I experimented with algorithms like LSTM (Long Short-Term Memory) networks, which are great for capturing patterns in time-series data. After training and fine-tuning the model, I evaluated its performance using metrics like accuracy and F1-score to ensure it wasn’t just memorizing the data but actually learning useful patterns
+I recently worked on a project focused on predicting stock price movements using machine learning. The goal was to build a model that could analyze historical stock data and make short-term predictions about whether a stock’s price would go up or down. Stock price prediction is a classic problem in finance, but it’s tricky because markets are influenced by so many factors—historical trends, news, and even investor sentiment. To tackle this, I started by collecting and cleaning historical stock data, including prices, trading volumes, and technical indicators like moving averages and RSI (Relative Strength Index). Then, I used feature engineering to create meaningful inputs for the model, such as calculating percentage changes in price or rolling averages over specific time windows. For the model itself, I experimented with algorithms like LSTM (Long Short-Term Memory) networks, which are great for capturing patterns in time-series data. After training and fine-tuning the model, I evaluated its performance using metrics like accuracy and F1-score to ensure it wasn’t just memorizing the data but actually learning useful patterns.
+
+The sample code is shown below.
 
 ```
 
