@@ -13,47 +13,30 @@ summary: "A text adventure game that I developed for ICS 313."
 
 <img class="img-fluid" src="../img/cotton/cotton-header.png">
 
-Cotton is a horror-style text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+I recently worked on a project focused on predicting stock price movements using machine learning. The goal was to build a model that could analyze historical stock data and make short-term predictions about whether a stock’s price would go up or down. Stock price prediction is a classic problem in finance, but it’s tricky because markets are influenced by so many factors—historical trends, news, and even investor sentiment. To tackle this, I started by collecting and cleaning historical stock data, including prices, trading volumes, and technical indicators like moving averages and RSI (Relative Strength Index). Then, I used feature engineering to create meaningful inputs for the model, such as calculating percentage changes in price or rolling averages over specific time windows. For the model itself, I experimented with algorithms like LSTM (Long Short-Term Memory) networks, which are great for capturing patterns in time-series data. After training and fine-tuning the model, I evaluated its performance using metrics like accuracy and F1-score to ensure it wasn’t just memorizing the data but actually learning useful patterns
 
-To give you a flavor of the game, here is an excerpt from one run:
+```
 
-<hr>
+# Create sequences for LSTM
+def create_sequences(data, seq_length):
+    X, y = [], []
+    for i in range(len(data) - seq_length):
+        X.append(data[i:i+seq_length])
+        y.append(data[i+seq_length])
+    return np.array(X), np.array(y)
 
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
+seq_length = 60
+X, y = create_sequences(scaled_prices, seq_length)
 
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
+# Split into training and testing sets
+split = int(0.8 * len(X))
+X_train, X_test = X[:split], X[split:]
+y_train, y_test = y[:split], y[split:]
 
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+# Build the LSTM model
+model = Sequential()
+model.add(LSTM(50, return_sequences=True, input_shape=(X_train.shape[1], 1)))
+model.add(LSTM(50, return_sequences=False))
+model.add(Dense(25))
+model.add(Dense(1))
+```
