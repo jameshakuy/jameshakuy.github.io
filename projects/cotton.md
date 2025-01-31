@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: img/LSTM.png
-title: "Cotton"
-date: 2014
+title: "Financial Modeling"
+date: 2025
 published: true
 labels:
   - Lisp
