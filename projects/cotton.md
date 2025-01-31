@@ -8,7 +8,7 @@ published: true
 labels:
   - Lisp
   - GitHub
-summary: "A text adventure game that I developed for ICS 313."
+summary: "I worked on a machine learning project to predict stock price movements by analyzing historical data and technical indicators, using LSTM networks to capture time-series patterns and evaluating the model's performance to ensure it learned meaningful trends."
 ---
 
 <img class="img-fluid" src="../img/FE.png">
