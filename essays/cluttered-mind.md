@@ -31,3 +31,4 @@ are blatantly copying and pasting. Obviously, it's not my interest in whether ot
 
 I also would like to share my opinion that the syllabus should be changed soon. Typescript and other languages and frameworks (especially frontend)  will be replaced by AI very soon. We must adapt to this evolving field and I believe that learning how to use AI API's or learning how to implement any AI tool into a software product will be very useful for us students. I hope this will be considered. 
 
+AI was used after the essay was completed. I asked if there were serious grammatical errors.
