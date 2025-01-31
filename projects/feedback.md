@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/wordembed.png
+image: img/rnn.png
 title: "Feedback"
 date: 2024
 published: true
@@ -13,7 +13,7 @@ summary: "My team developed a robotic mouse that won first place in the 2015 UH 
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/rnn.png" class="img-thumbnail" >
+  <img width="200px" src="../img/wordembed.png" class="img-thumbnail" >
   <img width="200px" src="../img/nn.png" class="img-thumbnail" >
 
 </div>
