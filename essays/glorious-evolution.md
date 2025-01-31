@@ -9,7 +9,7 @@ labels:
   - Machine Learning and AI
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/graph-database-on-social-network-03.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/LSTM.png">
 
 *When you're going to change the world, don't ask for permission.*
 
