@@ -10,7 +10,7 @@ labels:
   - Dumb Questions
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/ts1.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/einstein.jpg">
 
 
 I knew the importance of communication in Software Engineering, most of which the job is commenting and doing meetings. However, I have never considered the importance of asking smart questions. I knew there was a baseline of how "smart" questions had to be but the topics discussed in this paper were entirely new concepts to me and it helped me view from a different perspective. Eric Raymond's guidelines on how to engage with the tech community will definitely help me maximize the quality of help I receive as well as the likelihood of receiving responses. 
