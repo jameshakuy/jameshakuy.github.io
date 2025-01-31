@@ -15,7 +15,7 @@ summary: "During my internship at a stealth startup, I had the honor to work on 
 <div class="text-center p-4">
   <img width="200px" src="https://lyonwj.com/static/images/graph-of-thrones-neo4j-social-network-analysis/graph-of-thrones.png" >
   <img width="200px" src="../img/xWMRJ.jpg" >
-  <img width="200px" src="../img/image.jpg" >
+  <img width="200px" src="../img/Social-Listening-Sentiment-Analysis.jpg" >
 </div>
 
 Before anything, I am restricted from sharing detailed information due to a signed NDA contract with the stealth startup. I will do my best to share what I can and keep this article interesting.
