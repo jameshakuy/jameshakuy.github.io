@@ -6,8 +6,9 @@ title: "Financial Modeling"
 date: 2025
 published: true
 labels:
-  - Lisp
-  - GitHub
+  - Finance
+  - Trading
+  - Machine Learning
 summary: "I worked on a machine learning project to predict stock price movements by analyzing historical data and technical indicators, using LSTM networks to capture time-series patterns and evaluating the model's performance to ensure it learned meaningful trends."
 ---
 
