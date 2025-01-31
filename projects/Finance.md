@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/LSTM.png
+image: img/sc.png
 title: "Financial Modeling"
 date: 2025
 published: true
