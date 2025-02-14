@@ -9,7 +9,7 @@ labels:
   - Coding Standard
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/LSTM.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/LinearR.jpg">
 
 I love math. Math functions describe the world that we live in. Naturally, it also describes many computer science concepts. In this essay, I would like to model coding standards as a function of multiple variables, a multivariate function, and give each variable a corresponding weight in terms of importance to capture
 what we should be practicing to be better programmers. 
