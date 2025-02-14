@@ -16,9 +16,7 @@ what we should be practicing to be better programmers.
 
 **Proposition 1.1: Coding Standards as a Function**
 We propose that coding standards can be modeled as a function:
-$$
-C = f(R, M, C, E, S, P)
-$$
+$$C = f(R, M, C, E, S, P)$$
 where the following axioms define the parameters for this function.
 
 ## Axioms defining the variables.
