@@ -46,7 +46,7 @@ We can now assign a weight $$w_i$$ to each axiom such that:
 ```math
 C = w_R R + w_M M + w_C C + w_E E + w_S S + w_P P
 ```
-where the weights $$\( w_R, w_M, w_C, w_E, w_S, w_P \)$$ sum to 1.
+where the weights $$( w_R, w_M, w_C, w_E, w_S, w_P )$$ sum to 1.
 
 
 Now obviously, this is a joke of a model. It's just a linear regression and I highly doubt that these variables have any linear relationship. Though the "Axioms" are definitely helpful coding standards that I believe should be practiced. I had fun writing this essay!
