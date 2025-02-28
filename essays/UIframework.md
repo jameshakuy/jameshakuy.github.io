@@ -9,6 +9,13 @@ labels:
   - Typescript
 ---
 
+## Amazon without styling
+
+<img width="200px" class="rounded float-start pe-4" src="../img/https___dev-to-uploads.s3.amazonaws.com_i_xh9whpyn66c190zckf3o.png">
+
+## Amazon with styling
+
+<img width="200px" class="rounded float-start pe-4" src="Stores_hero._TTW_.png">
 
 
 I would like to take the opportunity that the assignment has given me to discuss another topic that is still based on UI frameworks. That is, how relevant is it to still be learning UI frameworks in today's day and age?
