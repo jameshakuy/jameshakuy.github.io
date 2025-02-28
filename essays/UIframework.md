@@ -1,12 +1,14 @@
 ---
 layout: essay
 type: essay
-title: "Cluttered Mind"
+title: Do we still need to learn UI?
 # All dates must be YYYY-MM-DD format!
-date: 2025-01-28
+date: 2025-02-27
 published: true
 labels:
-  - Typescript
+  - AI
+  - UI framework
+  - system design
 ---
 
 ## Amazon without styling
@@ -15,7 +17,7 @@ labels:
 
 ## Amazon with styling
 
-<img width="200px" class="rounded float-start pe-4" src="Stores_hero._TTW_.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/Stores_hero._TTW_.png">
 
 
 I would like to take the opportunity that the assignment has given me to discuss another topic that is still based on UI frameworks. That is, how relevant is it to still be learning UI frameworks in today's day and age?
