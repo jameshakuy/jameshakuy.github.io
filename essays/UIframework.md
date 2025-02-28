@@ -9,26 +9,25 @@ labels:
   - Typescript
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/ts1.png">
-<img width="200px" class="rounded float-start pe-4" src="../img/ts2.png">
 
-Writing in typescript is just... bland... It has neither intrigued me nor bored me. As someone who knew how to code in
-javascript prior, I still can't grasp how much better this subset of js is to justify the language being created. Maybe I
-still don't understand how typescript truly works. Perhaps it’s because my focus isn’t on building large-scale web applications where TypeScript’s type safety and scalability really shine. For smaller projects or quick prototypes, the overhead of defining types can feel unnecessary, but I can see how it might prevent bugs in more complex systems.
 
-## WAIT, HEAR ME OUT
+I would like to take the opportunity that the assignment has given me to discuss another topic that is still based on UI frameworks. That is, how relevant is it to still be learning UI frameworks in today's day and age?
 
-Now before the web developers come after me, my interest lies more in data science and Machine Learning so my opinion is biased. When I think of Python, the syntax is very easy to understand, the community is larger so it's easier to get help, the best libraries on ML is published on Python, and the list goes on. On the other hand, Typescript is just... typescript. On a good note, typescript is not entirely bad in terms of it can help create a website for my AI tool! I can deploy my model on the website; this way, it'll be way easier to gain users. With that being said, this rating of average is actually on the higher end all things considered, I appreciate typescript for what it can do for my ML projects!! It’s not the language I’d choose for data-heavy tasks, but it’s a solid choice for building the front-end interfaces that make my AI tools accessible to others.
+If you've read any other of my essays, it shouldn't be new to you that my interest lies in AI. I've been following it for a while now and a question I've recently started pondering on is the relevance for new programmers to learn relatively "easier" skills such as front-end development. As we have recently seen, AI models have increased their performance on tasks all around. New models have been released every few months from various companies and the field is growing rapidly. The models in particular that I would like to discuss are the ones that thrive in coding and logic. We have seen that the benchmarks on these tasks have improved a lot over a few years and there's no reason for development to slow its progress (A simple argument is that more advanced hardware will speed up training, allowing us to collect and analyze more data, etc.). 
 
-## It's actually not that bad...
+## So then should we even continue to learn frontend frameworks?
 
-Setting aside my opinions on typescript, I actually do think that the WODs are useful. It helps us think critically 
-especially because of the timer and the increasing complexity per new WOD. My only "complaint" is the fact that we can use
-unlimited AI. I've noticed that some people are finishing these WODs in 5 minutes which is hard to believe unless they 
-are blatantly copying and pasting. Obviously, it's not my interest in whether other individuals learn or not but I thought I mentioned this. That said, I do appreciate the pressure the WODs create, it simulates real-world scenarios where you have to think on your feet and deliver under tight deadlines, which is a valuable skill to develop.
+Short answer, no. Long answer, Yes.
 
-## WE MUST ADAPT
+The reason the long answer is yes is because, despite AI’s rapid advancements, we are still not at the point where it can fully replace human intuition, creativity, and problem-solving when it comes to front-end development. UI frameworks are not just about knowing which components to use or how to structure a web page; they require an understanding of user experience, accessibility, and design principles, things that AI models struggle with in a context-aware manner.
 
-I also would like to share my opinion that the syllabus should be changed soon. Typescript and other languages and frameworks (especially frontend)  will be replaced by AI very soon. We must adapt to this evolving field and I believe that learning how to use AI API's or learning how to implement any AI tool into a software product will be very useful for us students. I hope this will be considered. 
+Even though AI-powered tools can generate UI components or suggest improvement, they often lack the knowledge required for truly effective and engaging design. AI-generated designs may function well, but they can sometimes feel generic or fail to capture the specific branding needs of a company or product. Front-end development isn’t just about coding, it’s about crafting an experience, that requires human empathy and an understanding of user behavior that AI has yet to fully replicate.
 
-AI was used after the essay was completed. I asked if there were serious grammatical errors.
+Additionally, AI itself is still largely a tool that assists rather than replaces. Developers who understand UI frameworks can leverage AI to enhance their workflow rather than be replaced by it. AI can automate repetitive tasks, generate boilerplate code, and even optimize performance, but a human still needs to review, refine, and ensure that the final product meets both technical and user-centered requirements.
+
+That being said, the short answer is also valid: No, front-end development as a pure skillset is becoming less critical for beginners. As AI continues to evolve, the barrier to entry for UI development is getting lower. What once required deep knowledge of Bootstrap/HTML/CSS might soon be achievable with simple AI-assisted prompts. This means that for those starting out in programming, focusing on broader problem-solving skills, systems thinking, or AI-related fields might be a more future-proof investment.
+
+Ultimately, UI frameworks will still be relevant for a while, but their role is shifting. Developers will spend less time manually coding UI components and more time making strategic decisions about how to use AI tools effectively. Learning front-end frameworks today is still valuable, but in the long run, understanding how to work alongside AI might be even more important.
+
+
+
