@@ -17,7 +17,7 @@ As a requirement for this project, I wanted to share and establish a clear pictu
 
 # Tracking Effort Estimates
 
-I decided to estimate both coding and non-coding effort hours based on similar experiences (if applicable). I treated these estimates as rough benchmarks, though at the end, I noticed how off I was.
+I decided to estimate both coding and non-coding effort hours based on similar experiences (if applicable). I treated these estimates as rough benchmarks, though at the end, I noticed how off I was. At first, I decided to underestimate my time because I thought that I'll be able to focus more to try and meet the deadline, but I soon noticed that overestimating was a better approach. I will explain that in the next section.
 
 # Effort Estimates Benefits
 
