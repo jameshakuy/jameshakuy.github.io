@@ -31,6 +31,8 @@ The only upside I can think of to recording my actual effort hours is to get a g
 
 My actual effort was tracked using WakaTime and my personal clock/timer for non-coding efforts. I believe the software worked pretty well; it's nice that it's an extension to VSCode, so I didn't need to download something entirely separately.
 
+
+
 # Overhead in Tracking Effort
 
-Since Wakatime is automatic, there wasn't really any overhead in tracking my effort. I just let it run while I code. However, manually tracking non-coding effort was not the best experience. There were many instances in which I tabbed out of VsCode to browse and back into VsCode, hence I had to look at the clock a lot and record it each time I was tabbed out. Yes, it was tedious, but it didn't entirely prehibit me from working on the project. 
+Since Wakatime is automatic, there wasn't really any overhead in tracking my effort. I just let it run while I code. However, manually tracking non-coding effort was not the best experience. There were many instances in which I tabbed out of VsCode to browse and back into VsCode, hence I had to look at the clock a lot and record it each time I was tabbed out. Yes, it was tedious, but it didn't entirely prohibit me from working on the project. 
