@@ -25,7 +25,7 @@ The benefits of estimating the issues in advance, and specifically to overestima
 
 # Actual Effort Benefits
 
-The only upside I can think of to recording my actual effort hours is to get a good sense of how long each task will take when I encounter a similar task in the future. As I describe in 1., my effort estimate was based on prior experience, so recording the time it took on new tasks will give me a good idea of how long similar tasks will take in the future. There weren't necessarily any downsides, it was just tedious.
+The only upside I can think of to recording my actual effort hours is to get a good sense of how long each task will take when I encounter a similar task in the future. As I describe in 1., my effort estimate was based on prior experience, so recording the time it took on new tasks will give me a good idea of how long similar tasks will take in the future. So for example, if the actual time recorded was a good epsilon amount of time away from the estimate, then that means I had a good grasp on how long the task took based off prior experience. However, if the time was either significantly less or over the estimated time, then that implies I didn't really have a good understanding beforehand of how easy/complicated the task is. There weren't necessarily any downsides, it was just tedious.
 
 # Tracking Actual Efforts
 
