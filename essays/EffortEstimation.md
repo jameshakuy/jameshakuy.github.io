@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Effort Estimation for Final Project"
 # All dates must be YYYY-MM-DD format!
-date: 2025-05-27
+date: 2025-05-10
 published: true
 labels:
   - Software Engineering
