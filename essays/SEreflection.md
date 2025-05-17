@@ -2,14 +2,14 @@
 ---
 layout: essay
 type: essay
-title: 
+title: "Reflecting on Software Engineering"
 # All dates must be YYYY-MM-DD format!
-date: 2025-02-27
+date: 2025-05-16
 published: true
 labels:
-  - AI
-  - 
-  - 
+  - design patterns
+  - software engineering principles
+  - agile project development
 ---
 
 
@@ -27,5 +27,19 @@ Configuration management is the pracitce of managing software versions, configur
 # What is Coding Standards?
 Coding standards are a set of guidelines developers follow to ensure that code is readable, maintainable, and consistent. These standards include naming conventions, indentation, commenting practices, and function design principles. However, there is not one set and stones standard. Coding standards can differ from institutions, coding languages, organizations, companies, etc. It's important that you follow the standards enforced at your workplace.
 
+Phew! Now that all definitions are made clear, I can finally share how we used these methodologies to complete our project in ease! To begin with, our coding standards were mainly enforced by a linter—which automatically flagged styling and naming issues—so we never had to debate whitespace or comment rules in pull requests. We also commented our code thoughtfully, adding “why” explanations next to non-obvious logic to help teammates (and future selves) understand our decisions. Another tool we used is Git, the version control system at the heart of our configuration management practices: every feature branch, every bugfix, and every merge was tracked in commit history, ensuring that anyone could roll back or reproduce any state of the codebase. We also used npm to pin and install dependencies, making sure everyone ran the exact same library versions without manual coordination.
 
-Phew! Now that all definitions are made clear, I can finally share how we used these methodologies to complete our project in ease! To begin with, our coding standards were mainly enfored by linter which is a tool that analyzes source code for programmatic and stylistic errors. We also commented our code to make it easier for other members to understand it. Another tool we used ig called Git! Git is a version control system that tracks changes in files, which makes it easier for teams to work together. This is a tool used for configuration management practices. We also used npm which manages packages and dependencies so that the versions are consistent across all users. Now, throughout the duration of this project, we 
+Now, throughout the duration of this project, we applied these principles in concert:
+
+- Issue-Driven Agile
+We treated each small task—whether “design login form,” “implement API endpoint,” or “write unit tests for cart logic” as its own issue in our sprint board. Assigning, estimating, and closing issues every few days kept us focused on incremental progress, and weekly stand-up updates helped us spot and resolve blockers before they stalled the whole team.
+
+- Configuration Management in Practice
+By committing our code to Git and using npm lockfiles, we avoided the dreaded “it works on my machine” problem. Whenever someone pulled the latest changes, they knew exactly which Node modules to install, and that their local environment matched production. This discipline would translate directly to any other domain—be it data science experiments (tracking package versions for reproducible models) or embedded software (managing firmware revisions and toolchain settings).
+
+- Design Patterns for Clean Architecture
+Although we built a web application, we organized our logic in an MVC-style structure separating data models, view components, and controller-like services and encapsulated UI pieces as reusable React components. This separation of concerns made our codebase easier to navigate, test, and extend. The same patterns could just as easily guide the architecture of a desktop app or a backend microservice, illustrating how these blueprints transcend any one technology stack.
+
+
+# Conclusion
+By combining issue-driven Agile, strict configuration management, and well-chosen design patterns, we delivered our project smoothly while learning skills that apply far beyond web development. These foundational practices will serve me equally well in mobile apps, machine learning pipelines, robotics software, or any other complex system I tackle next.
