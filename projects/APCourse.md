@@ -23,4 +23,7 @@ Merge conflicts are a PAIN. (Not really a joke) Jokes aside, I've only twice wor
 
 Here are a few screenshots of the project, if you would like to see more, you can visit the Github [here](https://github.com/farringtonap/apcoursemanager)
 
-
+<img width="200px" src="../img/home.png" >
+<img width="200px" src="../img/recc.png" >
+<img width="200px" src="../img/classes.png" >
+ 
