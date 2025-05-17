@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/sc.jpg
+image: img/home.png
 title: "AP Course Manager"
 date: 2025
 published: true
@@ -22,4 +22,5 @@ My identity on the team was the "AI guy". I have previous experiences on AI so i
 Merge conflicts are a PAIN. (Not really a joke) Jokes aside, I've only twice worked on collaborative repositories with other people so it was a good experience working with version control and such. I also learned how to deploy, deploying Python code specifically. What's interesting is that I had to deploy my python code separately on a different service than Vercel. Setting up the deployment and making it point at Vercel was a challenge but I definitely learned a lot.
 
 Here are a few screenshots of the project, if you would like to see more, you can visit the Github [here](https://github.com/farringtonap/apcoursemanager)
+
 
